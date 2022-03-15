@@ -4,7 +4,7 @@ A Pure Flutter based project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+TTS with a random sentence generator.
 
 A few resources to get you started if this is your first Flutter project:
 
