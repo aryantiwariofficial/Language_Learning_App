@@ -1,6 +1,6 @@
-# untitled
+# The ABC's of Learning.
 
-A new Flutter project.
+A Pure Flutter based project.
 
 ## Getting Started
 
