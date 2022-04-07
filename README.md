@@ -1,6 +1,6 @@
 # The ABC's of Learning.
 
-A Pure Flutter based project.
+A Pure Flutter based group project created by Aryan and Niyas.
 
 ## Getting Started
 
